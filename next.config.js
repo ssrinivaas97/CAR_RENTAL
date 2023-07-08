@@ -5,5 +5,6 @@ const nextConfig = {
         output: 'export',
     }
 }
+//done
 
 module.exports = nextConfig
